@@ -1,4 +1,4 @@
-﻿#define _CRT_SECURE_NO_WARNINGS
+﻿#define _CRT_SECURE_NO_WARNINGS// Рекурсивные функции работают медленее, чем не рекурсивные, а также время обхода списков больше чем у матриц смежности
 
 #include <stdio.h>
 #include <stdlib.h>
